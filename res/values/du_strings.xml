@@ -409,4 +409,8 @@ phone.</string>
     <string name="refresh_rate_summary_90">90Hz / Refresh rate locked at 90Hz for all content. Increased battery usage</string>
     <string name="auto_refresh_rate">Auto</string>
 
+    <!-- "Custom" Security Patch label -->
+    <string name="custom_patch">Android security patch level</string>
+    <string name="custom_patch_info">There are no official security patches for this Android version anymore. \nAll patches contained in this build are backports from newer versions.</string>
+
 </resources>
